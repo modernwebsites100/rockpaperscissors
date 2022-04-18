@@ -1,0 +1,23 @@
+body {
+  background-color: aqua;
+}
+#center-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 50vh;
+}
+#black-rock {
+  color: black;
+}
+#red-paper {
+  color: red;
+}
+#purple-scissors {
+  color: blueviolet;
+}
+#red-paper,
+#black-rock,
+#purple-scissors {
+  font-size: 50px;
+}
